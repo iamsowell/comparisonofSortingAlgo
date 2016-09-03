@@ -7,5 +7,5 @@ Comparing the efficiency of sorting algorithms.
 	heap_sort
 	radix_sort	
 	merge_sort
-  bucket_sort
+	bucket_sort
 
